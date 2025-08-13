@@ -46,12 +46,18 @@ My goal is to become a proficient software developer who can craft beautiful and
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github"  alt="Github" width="40"/>&nbsp;
 </div>
 <br>
+ &nbsp; &nbsp;
 
-### 📊 Github Statistics
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=ishanundre2004&show_icons=true&theme=dark"> &nbsp; &nbsp; 
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanundre2004&layout=compact&theme=dark"> &nbsp; &nbsp;
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanundre2004&layout=compact&theme=dark">
+## 📊 GitHub Statistics
+
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+| <img src="https://github-readme-stats.vercel.app/api?username=ishanundre2004&show_icons=true&theme=dark" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanundre2004&layout=compact&theme=dark" height="200"/> |
+
+### 🔥 Streak Stats
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanundre2004&layout=compact&theme=dark">
+
 
   
   <hr>
