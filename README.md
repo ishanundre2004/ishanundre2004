@@ -51,12 +51,19 @@ My goal is to become a proficient software developer who can craft beautiful and
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+
 | GitHub Stats | Most Used Languages |
 |--------------|---------------------|
 | <img src="https://github-readme-stats.vercel.app/api?username=ishanundre2004&show_icons=true&theme=dark" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanundre2004&layout=compact&theme=dark" height="200"/> |
 
 ### 🔥 Streak Stats
 <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=ishanundre2004&layout=compact&theme=dark">
+
+</div>
+
+
+
 
 
   
