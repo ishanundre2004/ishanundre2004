@@ -9,6 +9,10 @@ My goal is to become a proficient software developer who can craft beautiful and
   </div>
   <br>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/ishanundre2004/ishanundre2004/output/snake.svg" alt="Snake animation" />
+</div>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishanundre/)](https://www.linkedin.com/in/ishanundre/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/IshanUndre/)
 [![GitHub Follow](https://img.shields.io/github/followers/ishanundre2004?label=GitHub&style=social)](https://github.com/ishanundre2004)
@@ -73,5 +77,3 @@ My goal is to become a proficient software developer who can craft beautiful and
 
 <img src="https://readme-jokes.vercel.app/api">
 
-### 🐍 Snake Eating My Contributions
-<img src="https://raw.githubusercontent.com/ishanundre2004/ishanundre2004/output/snake.svg" alt="Snake animation" />
