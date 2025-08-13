@@ -72,3 +72,6 @@ My goal is to become a proficient software developer who can craft beautiful and
 ### 😆 Have a Laugh
 
 <img src="https://readme-jokes.vercel.app/api">
+
+### 🐍 Snake Eating My Contributions
+<img src="https://raw.githubusercontent.com/ishanundre2004/ishanundre2004/output/snake.svg" alt="Snake animation" />
