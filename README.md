@@ -3,7 +3,7 @@
 I am a Junior Full Stack Developer.
 
 <div align = "justify">
-  I have a passion for software development and I love exploring the endless possibilities in this field. Recently I have been focusing on web development, which is a fascinating and diverse field that combines creativity, logic and problem-solving skills. I am amazed by the technologies that power the web, such as HTML, CSS, JavaScript, React, Node.js and many more. Besides web development, I have also taken up competitive programming with C++, where I hone my creativity and analytical thinking by tackling difficult coding tasks using different data structures and algorithms.
+  I have a passion for software development and I love exploring the endless possibilities in this field. Recently I have been focusing on web development, which is a fascinating and diverse field that combines creativity, logic and problem-solving skills. I am amazed by the technologies that power the web, such as HTML, CSS, JavaScript, React, Node.js, Futter, Kotlin and many more. Besides app development, I have also taken up competitive programming with C++, where I hone my creativity and analytical thinking by tackling difficult coding tasks using different data structures and algorithms.
   <br>
 My goal is to become a proficient software developer who can craft beautiful and functional products and applications that solve real-world problems.
   </div>
